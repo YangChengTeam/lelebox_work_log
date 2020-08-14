@@ -1,0 +1,150 @@
+# "乐乐游戏” 更新日志：
+
+## 发布cdn更新地线
+
+http://www.6ll.com/apk/app-box.apk <br/>
+
+http://db.znkaoshi.com/apk/sub/leleyouxihezi/10113.apk <br/>
+http://db.znkaoshi.com/apk/sub/leleyouxihezi/10112.apk <br/>
+http://db.znkaoshi.com/apk/sub/leleyouxihezi/10096.apk <br/>
+http://db.znkaoshi.com/apk/sub/leleyouxihezi/10097.apk <br/>
+http://db.znkaoshi.com/apk/sub/leleyouxihezi/10098.apk <br/>
+http://db.znkaoshi.com/apk/sub/leleyouxihezi/19.apk <br/>
+http://db.znkaoshi.com/apk/sub/leleyouxihezi/7.apk <br/>
+http://db.znkaoshi.com/apk/sub/leleyouxihezi/24.apk <br/>
+http://db.znkaoshi.com/apk/sub/leleyouxihezi/85.apk <br/>
+http://db.znkaoshi.com/apk/sub/leleyouxihezi/15.apk <br/>
+http://db.znkaoshi.com/apk/sub/leleyouxihezi/leleyouxihezi_10161.apk  <br/>
+http://db.znkaoshi.com/apk/sub/leleyouxihezi/leleyouxihezi_10154.apk  <br/>
+http://db.znkaoshi.com/apk/sub/leleyouxihezi/leleyouxihezi_10092.apk  <br/>
+http://db.znkaoshi.com/apk/sub/leleyouxihezi/leleyouxihezi_10185.apk  <br/>
+
+## [未发布]
+
+## 2020-08-20 【乐乐游戏】版本：2.1.4  &#160; &#160; 内部版本号：35
+
+- 乐乐游戏第五期改版内容
+- 主要源码在git分支developer_v5
+
+
+### 新增
+
+-  用户等级系统
+-  用户的生日设置
+
+### 更新
+
+-  分类界面改版
+-  排行榜改版
+
+
+### 修改
+
+-  修复部分bug
+-  性能优化以及代码重构
+
+
+
+## 2020-08-14 【乐乐游戏】版本：2.1.4  &#160; &#160; 内部版本号：34
+
+后台配置马甲包bug修复
+
+### 修改
+
+-  后台配置自动下载跳转问题的修复
+-  修复下载管理问题
+
+
+
+
+## 2020-08-13 【乐乐游戏】版本：2.1.3  &#160; &#160; 内部版本号：33
+
+商务马甲包功能
+bug修复
+
+### 新增
+
+-  根据商务马甲包配置下载
+-  商务马甲包跳转webview 下载状态对接
+
+
+### 修改
+
+-  修复部分bug
+
+
+
+## 2020-08-12 【乐乐游戏】版本：2.1.2  &#160; &#160; 内部版本号：32
+
+主要广告模块及修改
+
+### 新增
+
+-  闪屏广告
+-  游戏详情页视频广告任务
+
+### 更新
+
+-  初始化接口本地化
+-  手机应用桌面红点逻辑修改
+-  游戏详情页点下载跳到底部推荐
+-  游戏大小只保留一位小数，把B去掉
+-  配置文件新加入是否显示同意协议、闪屏广告
+-  详情页在wifi自动播放视频
+-  日志上传ip后台获取
+-  下载错误重试机制10次
+-  授权时机改变到下载时
+-  加上下载通知处理黑屏问题 
+-  同意协议默认不显示
+
+### 修改
+
+-  修复部分bug
+
+
+## 2020-08-06 【乐乐游戏】版本：2.1.1  &#160; &#160; 内部版本号：31
+
+临时更新
+
+### 更新
+
+-  配置文件可以同时下载多个游戏
+-  更换为系统webview
+
+### 修改
+
+-  修复部分bug
+
+### 删除
+
+-  腾迅x5webview 
+
+
+## 2020-08-04 【乐乐游戏】版本：2.0.7  &#160; &#160; 内部版本号：29
+
+- 乐乐游戏第四期改版内容
+- 主要源码在git分支developer_v3
+
+### 新增
+
+-  新增猜您喜欢
+-  新增现金游戏试玩任务
+-  新增红包动画、现金动画
+-  日志系统
+
+### 更新
+
+-  首页现金任务板块改版
+-  任务系统改版
+-  游戏详情细节调整
+-  重做下载管理
+
+### 修改
+
+-  修复部分bug
+-  性能优化以及代码重构
+
+### 删除
+
+-  删除通知系统
+
