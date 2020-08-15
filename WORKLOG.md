@@ -65,10 +65,9 @@ paykey：rgVaHu8b0e9AOSxhkfJw <br>
 </details>
 
 
-## **乐乐游戏**
-<details>
-</details>
-
 ## **其它**
 <details>
+
++ ### **2020-08-15**
+  - cdn刷新工具客户端
 </details>
