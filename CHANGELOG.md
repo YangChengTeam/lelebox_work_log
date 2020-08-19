@@ -29,7 +29,6 @@ http://db.znkaoshi.com/apk/sub/leleyouxihezi/leleyouxihezi_10185.apk  <br/>
 
 ### 新增
 
--  用户等级系统
 -  用户的生日设置
 -  专题
 
