@@ -31,15 +31,15 @@ http://db.znkaoshi.com/apk/sub/leleyouxihezi/leleyouxihezi_10185.apk  <br/>
 
 -  用户等级系统
 -  用户的生日设置
--  专题修改
+-  专题
 
 ### 更新
 
 -  首页
 -  分类界面改版
 -  排行榜改版
--  收藏
--  评论回复
+-  收藏改版
+-  评论回复改版
 
 
 ### 修改
