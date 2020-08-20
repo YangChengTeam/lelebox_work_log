@@ -34,7 +34,7 @@ http://db.znkaoshi.com/apk/sub/leleyouxihezi/leleyouxihezi_10185.apk  <br/>
 
 ### 更新
 
--  首页改版
+-  首页改版 
 -  分类界面改版
 -  排行榜改版
 -  收藏改版
