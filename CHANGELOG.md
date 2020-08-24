@@ -4,24 +4,54 @@
 
 http://www.6ll.com/apk/app-box.apk <br/>
 
-http://db.znkaoshi.com/apk/sub/leleyouxihezi/10113.apk <br/>
-http://db.znkaoshi.com/apk/sub/leleyouxihezi/10112.apk <br/>
-http://db.znkaoshi.com/apk/sub/leleyouxihezi/10096.apk <br/>
-http://db.znkaoshi.com/apk/sub/leleyouxihezi/10097.apk <br/>
-http://db.znkaoshi.com/apk/sub/leleyouxihezi/10098.apk <br/>
-http://db.znkaoshi.com/apk/sub/leleyouxihezi/19.apk <br/>
-http://db.znkaoshi.com/apk/sub/leleyouxihezi/7.apk <br/>
-http://db.znkaoshi.com/apk/sub/leleyouxihezi/24.apk <br/>
-http://db.znkaoshi.com/apk/sub/leleyouxihezi/85.apk <br/>
-http://db.znkaoshi.com/apk/sub/leleyouxihezi/15.apk <br/>
+http://db.znkaoshi.com/apk/sub/leleyouxihezi/10256.apk	 <br/>
+http://db.znkaoshi.com/apk/sub/leleyouxihezi/10093.apk	 <br/>
+http://db.znkaoshi.com/apk/sub/leleyouxihezi/10222.apk	 <br/>
+http://db.znkaoshi.com/apk/sub/leleyouxihezi/10094.apk	 <br/>
+http://db.znkaoshi.com/apk/sub/leleyouxihezi/10054.apk	 <br/>
+http://db.znkaoshi.com/apk/sub/leleyouxihezi/10185.apk	 <br/>
+http://db.znkaoshi.com/apk/sub/leleyouxihezi/10113.apk	 <br/>
+http://db.znkaoshi.com/apk/sub/leleyouxihezi/10112.apk	 <br/>
+http://db.znkaoshi.com/apk/sub/leleyouxihezi/10096.apk	 <br/>
+http://db.znkaoshi.com/apk/sub/leleyouxihezi/10097.apk	 <br/>
 http://db.znkaoshi.com/apk/sub/leleyouxihezi/leleyouxihezi_10161.apk  <br/>
 http://db.znkaoshi.com/apk/sub/leleyouxihezi/leleyouxihezi_10154.apk  <br/>
 http://db.znkaoshi.com/apk/sub/leleyouxihezi/leleyouxihezi_10092.apk  <br/>
 http://db.znkaoshi.com/apk/sub/leleyouxihezi/leleyouxihezi_10185.apk  <br/>
+http://db.znkaoshi.com/apk/sub/leleyouxihezi/leleyouxihezi_10222.apk  <br/>
+http://db.znkaoshi.com/apk/sub/leleyouxihezi/leleyouxihezi_10183.apk  <br/>
+http://db.znkaoshi.com/apk/sub/leleyouxihezi/leleyouxihezi_10161.apk  <br/>
+
+
+## 2020-08-28 【乐乐游戏】版本：2.1.6  &#160; &#160; 内部版本号：36
+
+- 乐乐游戏第五期改版内容
+- 主要源码在git分支developer_v6
+
+
+### 新增
+
+-  求游戏
+-  即时搜索
+-  游戏权限
+-  游戏反馈
+
+### 更新
+
+-  首页架构全部改版 
+-  登录注册界面改版 
+-  游戏详情界面改版
+-  搜索界面改版
+
+
+### 修改
+
+-  修复部分bug
+-  性能优化以及代码重构
 
 
 
-## 2020-08-20 【乐乐游戏】版本：2.1.5  &#160; &#160; 内部版本号：35
+## 2020-08-21 【乐乐游戏】版本：2.1.5  &#160; &#160; 内部版本号：35
 
 - 乐乐游戏第五期改版内容
 - 主要源码在git分支developer_v5
