@@ -26,7 +26,7 @@ http://db.znkaoshi.com/apk/sub/leleyouxihezi/leleyouxihezi_10161.apk  <br/>
 ## [未发布]
 ## 2020-08-28 【乐乐游戏】版本：2.1.6  &#160; &#160; 内部版本号：36
 
-- 乐乐游戏第五期改版内容
+- 乐乐游戏第六期改版内容
 - 主要源码在git分支developer_v6
 
 
