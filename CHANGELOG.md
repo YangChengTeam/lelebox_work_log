@@ -36,6 +36,7 @@ http://db.znkaoshi.com/apk/sub/leleyouxihezi/leleyouxihezi_10161.apk  <br/>
 -  即时搜索
 -  游戏权限
 -  游戏反馈
+-  关于我们
 
 ### 更新
 
@@ -48,7 +49,8 @@ http://db.znkaoshi.com/apk/sub/leleyouxihezi/leleyouxihezi_10161.apk  <br/>
 ### 修改
 
 -  修复部分bug
--  性能优化以及代码重构
+-  性能/功能优化以及代码重构
+
 
 
 
