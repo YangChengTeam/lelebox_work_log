@@ -4,13 +4,34 @@
 ## **马甲包打包**
 <details>
 
++ ### **2020-09-01**
+
+   - >应用名称：经典消消消 1.1.8<br>
+服务器：61.183.37.44<br>
+类型ID：yx 10137<br>
+路径：/home/bb/ydb/Script<br>
+
++ ### **2020-08-31**
+
+   - >应用名称：经典消消消 1.1.8<br>
+服务器：61.183.37.44<br>
+类型ID：yx 10137<br>
+路径：/home/bb/ydb/Script<br>
+
++ ### **2020-08-28**
+
+   - >应用名称：经典消消消 1.1.8<br>
+服务器：61.183.37.44<br>
+类型ID：yx 10137<br>
+路径：/home/bb/ydb/Script<br>
+
+
 + ### **2020-08-27**
 
    - >应用名称：经典消消消 1.1.9<br>
 服务器：61.183.37.44<br>
 类型ID：30<br>
 路径：/home/bb/ydb/Script<br>
-
 
 
 + ### **2020-08-26**
@@ -40,27 +61,6 @@
 路径：/home/bb/ydb/Script<br>
 
 + ### **2020-08-21**
-
-
-    - >(游戏更新)游戏名称：青城山下<br>
-渠道游戏：青城山下<br>
-渠道ID：40<br>
-App ID <br>
-432BF3A2EDD1956E11EB2D261A10F7CE<br>
-App Key <br>
-942d7f6f577ad11cbdf6095a1036750e<br>
-6071游戏包地址：http://apk3.6071.com/apk/base/809.apk<br>
-
-
-    - >(游戏更新)游戏名称：青城山下<br>
-渠道游戏：青城山下<br>
-渠道ID：52<br>
-产品ID：9305920100001107<br>
-客户端key：7d4e3f592eabb3fcfb9d6b6e357dd8ee<br>
-服务端key：f029a76a9bf732635be90a62d2f65e6a<br>
-产品代码：qcsx_android<br>
-产品包名：com.dangwan.qcsx<br>
-6071游戏包地址：http://apk3.6071.com/apk/base/809.apk<br>
 
 
     - >应用名称：经典消消消<br>
@@ -132,6 +132,26 @@ App Key <br>
 ## **聚合渠道打包**
 <details>
 
++ ### **2020-08-31**
+
+    - >(游戏更新)游戏名称：仙域轮回<br>
+渠道ID：45<br>
+渠道游戏：仙域轮回<br>
+渠道号(channelid)：100000<br>
+游戏key :  BF819C9088ACF3F4<br>
+游戏公钥 : MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCUG40Y+vl8oI<br>+TYKo8ZHKNFQMjk99eINpaV8p73nweSkfr1eqX5c8fxSs8FYkLI4vX57CvNCo36MIF1fBjYJmpCkNaf6mWH5YOHN/NMEXHq4fmYA/X3b8qi/LWz2eE+dXSuR1fwr6qXBxEZs5rbWHedOJW7WLnfQothutwn6+MRQIDAQAB<br>
+6071包地址：http://apk3.6071.com/apk/base/832.apk<br>
+
++ ### **2020-08-28**
+    - >游戏名称：仙域轮回<br>
+渠道ID：45<br>
+渠道游戏：仙域轮回<br>
+渠道号(channelid)：100000<br>
+游戏key :  BF819C9088ACF3F4<br>
+游戏公钥 : MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCUG40Y+vl8oI<br>+TYKo8ZHKNFQMjk99eINpaV8p73nweSkfr1eqX5c8fxSs8FYkLI4vX57CvNCo36MIF1fBjYJmpCkNaf6mWH5YOHN/NMEXHq4fmYA/X3b8qi/LWz2eE+dXSuR1fwr6qXBxEZs5rbWHedOJW7WLnfQothutwn6+MRQIDAQAB<br>
+6071包地址：http://apk3.6071.com/apk/base/832.apk<br>
+
+
 + ### **2020-08-27**
     - >（游戏更新）游戏名称：魔神乱世<br>
 渠道游戏：魔神乱世<br>
@@ -149,6 +169,29 @@ app_id：8103<br>
 app_key：dbede500095964949be3cb55dab87c02<br>
 client_id：2124<br>
 6071地址：http://apk3.6071.com/apk/base/679.apk<br>
+
+
++ ### **2020-08-21**
+
+    - >(游戏更新)游戏名称：青城山下<br>
+渠道游戏：青城山下<br>
+渠道ID：40<br>
+App ID <br>
+432BF3A2EDD1956E11EB2D261A10F7CE<br>
+App Key <br>
+942d7f6f577ad11cbdf6095a1036750e<br>
+6071游戏包地址：http://apk3.6071.com/apk/base/809.apk<br>
+
+
+    - >(游戏更新)游戏名称：青城山下<br>
+渠道游戏：青城山下<br>
+渠道ID：52<br>
+产品ID：9305920100001107<br>
+客户端key：7d4e3f592eabb3fcfb9d6b6e357dd8ee<br>
+服务端key：f029a76a9bf732635be90a62d2f65e6a<br>
+产品代码：qcsx_android<br>
+产品包名：com.dangwan.qcsx<br>
+6071游戏包地址：http://apk3.6071.com/apk/base/809.apk<br>
 
 
 + ### **2020-08-18**
@@ -214,9 +257,13 @@ paykey：rgVaHu8b0e9AOSxhkfJw <br>
 ## **其它**
 <details>
 
++ ### **2020-08-31**
+   - 6071马甲包修改
+
 + ### **2020-08-27**
     - 消除球球
        - 日志上报
+       
 + ### **2020-08-25**
   - 消除球球
     - 改logo

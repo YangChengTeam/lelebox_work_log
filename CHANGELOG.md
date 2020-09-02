@@ -3,7 +3,7 @@
 ## 发布cdn更新地线
 
 http://www.6ll.com/apk/app-box.apk <br/>
-
+http://www.6ll.com/6ll.apk <br/>
 http://db.znkaoshi.com/apk/sub/leleyouxihezi/10256.apk	 <br/>
 http://db.znkaoshi.com/apk/sub/leleyouxihezi/10093.apk	 <br/>
 http://db.znkaoshi.com/apk/sub/leleyouxihezi/10222.apk	 <br/>
@@ -15,12 +15,13 @@ http://db.znkaoshi.com/apk/sub/leleyouxihezi/10112.apk	 <br/>
 http://db.znkaoshi.com/apk/sub/leleyouxihezi/10096.apk	 <br/>
 http://db.znkaoshi.com/apk/sub/leleyouxihezi/10097.apk	 <br/>
 http://db.znkaoshi.com/apk/sub/leleyouxihezi/leleyouxihezi_10161.apk  <br/>
-http://db.znkaoshi.com/apk/sub/leleyouxihezi/leleyouxihezi_10154.apk  <br/>
+http://db.znkaoshi.com/apk/sub/leleyouxihezi/leleyouxihezi_10054.apk  <br/>
 http://db.znkaoshi.com/apk/sub/leleyouxihezi/leleyouxihezi_10092.apk  <br/>
 http://db.znkaoshi.com/apk/sub/leleyouxihezi/leleyouxihezi_10185.apk  <br/>
 http://db.znkaoshi.com/apk/sub/leleyouxihezi/leleyouxihezi_10222.apk  <br/>
 http://db.znkaoshi.com/apk/sub/leleyouxihezi/leleyouxihezi_10183.apk  <br/>
 http://db.znkaoshi.com/apk/sub/leleyouxihezi/leleyouxihezi_10161.apk  <br/>
+http://db.znkaoshi.com/apk/sub/leleyouxihezi/leleyouxihezi_10098.apk  <br/>
 http://db.znkaoshi.com/apk/sub/leleyouxihezi/19.apk  <br/>
 http://db.znkaoshi.com/apk/sub/leleyouxihezi/7.apk   <br/>
 http://db.znkaoshi.com/apk/sub/leleyouxihezi/24.apk  <br/>
