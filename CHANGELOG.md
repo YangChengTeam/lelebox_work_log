@@ -29,7 +29,7 @@ http://db.znkaoshi.com/apk/sub/leleyouxihezi/85.apk  <br/>
 http://db.znkaoshi.com/apk/sub/leleyouxihezi/15.apk	 <br/>
 
 
-## 2020-09-04 【乐乐游戏】版本：2.1.6.4  &#160; &#160; 内部版本号：37
+## 2020-09-07 【乐乐游戏】版本：2.1.6.4  &#160; &#160; 内部版本号：37
 
 - 主要是bug修复和优化
 
