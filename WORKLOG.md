@@ -4,6 +4,20 @@
 ## **马甲包打包**
 <details>
 
++ ### **2020-09-03**
+
+    - >应用名称：话术宝换情感之家<br>
+服务器：61.147.108.89<br>
+类型ID：12<br>
+路径：/home/bb/new/Script<br>
+
++ ### **2020-09-02**
+
+   - >应用名称：经典消消消 1.1.8<br>
+服务器：61.183.37.44<br>
+类型ID：yx 10137 10162<br>
+路径：/home/bb/ydb/Script<br>
+
 + ### **2020-09-01**
 
    - >应用名称：经典消消消 1.1.8<br>
@@ -126,11 +140,94 @@
 类型ID：yx<br>
 路径：/home/bb/ydb/Script<br>
 
-
 </details>
 
 ## **聚合渠道打包**
 <details>
+
++ ### **2020-09-04**
+
+  - >(修复打包错误)游戏名称：仙域轮回<br>
+渠道ID：50<br>
+游戏名称：仙域轮回<br>
+app_id=78045d98a06821b82aa882f818a24094<br>
+app_key=a4322d8891eaa70ba73a1982437b988d<br>
+server_key=ede6aeb3c6f167bdb47143475800b7b4<br>
+6071包地址：http://apk3.6071.com/apk/base/832.apk<br>
+
+
+  - >(修复打包错误)游戏名称：逍遥修真<br>
+渠道ID：51<br>
+渠道游戏名称：逍遥修真<br>
+app_id(游戏ID):<br>
+8220<br>
+app_key(游戏KEY):<br>
+1e25275b6077fbbad9c668ef27d8f96f<br>
+client_id(客户端ID):<br>
+2242<br>
+client_key(客户端KEY):<br>
+cdd08903d8c0c4eab7b508b34528ca1e<br>
+6071包地址：http://apk3.6071.com/apk/base/838.apk<br>
+
++ ### **2020-09-03**
+
+   - >游戏名称：天使之吻<br>
+渠道ID：45<br>
+渠道游戏名称：天使之吻（赢天猫卡）<br>
+渠道号(channelid)：100000<br>
+游戏key :  A8E875BC876104A6<br>
+游戏公钥 : MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCBOKaFYfb8ZdIMz/fTAWDXUjLSMDngRNhkaAMmCtlvU3NrkZpY8JrTo2cuNzYCsM/HIJywnlWal5F4TJTApmUz4RRJuouurO7l0uODyB3KhtPgHohD52Wag5SP+hh4+pWIUwgTxdr7irjFy2mrau9d/VIhWQJo8yoAEvf/2iu3zQIDAQAB<br>
+6071包地址：http://apk3.6071.com/apk/base/836.apk<br>
+
+
+  - >游戏名称：仙域轮回<br>
+渠道ID：50<br>
+游戏名称：仙域轮回<br>
+app_id=78045d98a06821b82aa882f818a24094<br>
+app_key=a4322d8891eaa70ba73a1982437b988d<br>
+server_key=ede6aeb3c6f167bdb47143475800b7b4<br>
+6071包地址：http://apk3.6071.com/apk/base/832.apk<br>
+
+
+  - >游戏名称：逍遥修真<br>
+渠道ID：51<br>
+渠道游戏名称：逍遥修真<br>
+app_id(游戏ID):<br>
+8220<br>
+app_key(游戏KEY):<br>
+1e25275b6077fbbad9c668ef27d8f96f<br>
+client_id(客户端ID):<br>
+2242<br>
+client_key(客户端KEY):<br>
+cdd08903d8c0c4eab7b508b34528ca1e<br>
+6071包地址：http://apk3.6071.com/apk/base/838.apk<br>
+
+
++ ### **2020-09-02**
+
+  - >游戏名称：仙域轮回<br>
+渠道ID：51  <br>
+游戏名称:仙域轮回<br>
+app_id(游戏ID):<br>
+8204<br>
+app_key(游戏KEY):<br>
+6f799249b48b41c7408e87e638b8debb<br>
+client_id(客户端ID):<br>
+2226<br>
+client_key(客户端KEY):<br>
+caff00f381fe7ed86134f657c5b1af53<br>
+6071包地址：http://apk3.6071.com/apk/base/832.apk<br>
+
+
++ ### **2020-09-01**
+
+    - >(游戏角标更新)游戏名称：仙域轮回<br>
+渠道ID：45<br>
+渠道游戏：仙域轮回<br>
+渠道号(channelid)：100000<br>
+游戏key :  BF819C9088ACF3F4<br>
+游戏公钥 : MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCUG40Y+vl8oI<br>+TYKo8ZHKNFQMjk99eINpaV8p73nweSkfr1eqX5c8fxSs8FYkLI4vX57CvNCo36MIF1fBjYJmpCkNaf6mWH5YOHN/NMEXHq4fmYA/X3b8qi/LWz2eE+dXSuR1fwr6qXBxEZs5rbWHedOJW7WLnfQothutwn6+MRQIDAQAB<br>
+6071包地址：http://apk3.6071.com/apk/base/832.apk<br>
 
 + ### **2020-08-31**
 

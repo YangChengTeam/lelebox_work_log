@@ -28,6 +28,26 @@ http://db.znkaoshi.com/apk/sub/leleyouxihezi/24.apk  <br/>
 http://db.znkaoshi.com/apk/sub/leleyouxihezi/85.apk  <br/>
 http://db.znkaoshi.com/apk/sub/leleyouxihezi/15.apk	 <br/>
 
+
+## 2020-09-04 【乐乐游戏】版本：2.1.6.4  &#160; &#160; 内部版本号：37
+
+- 主要是bug修复和优化
+
+### 新增
+
+- 加入bugly
+
+### 修改
+
+-  详情页的优化
+-  下拉刷新控件替换
+-  上拉加载控件替换
+-  启动页、首页、排行榜等页面优化
+-  修改umeng bugly bug 
+-  性能/功能优化以及代码重构
+
+
+
 ## 2020-08-28 【乐乐游戏】版本：2.1.6  &#160; &#160; 内部版本号：36
 
 - 乐乐游戏第六期改版内容
