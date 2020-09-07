@@ -28,7 +28,7 @@ http://db.znkaoshi.com/apk/sub/leleyouxihezi/24.apk  <br/>
 http://db.znkaoshi.com/apk/sub/leleyouxihezi/85.apk  <br/>
 http://db.znkaoshi.com/apk/sub/leleyouxihezi/15.apk	 <br/>
 
-
+http://sp.ulxue.com/Uploads/apk/32/
 ## 2020-09-07 【乐乐游戏】版本：2.1.6.4  &#160; &#160; 内部版本号：37
 
 - 主要是bug修复和优化
@@ -36,6 +36,10 @@ http://db.znkaoshi.com/apk/sub/leleyouxihezi/15.apk	 <br/>
 ### 新增
 
 - 加入bugly
+
+### 删除
+
+- SmartRefreshLayout组件
 
 ### 修改
 

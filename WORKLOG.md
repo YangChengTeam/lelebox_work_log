@@ -145,6 +145,24 @@
 ## **聚合渠道打包**
 <details>
 
+
+
++ ### **2020-09-07**
+
+    - >游戏名称：执剑问情<br>
+渠道ID：51<br>
+游戏名称:<br>
+执剑问情<br>
+app_id(游戏ID):<br>
+8236<br>
+app_key(游戏KEY):<br>
+f8c962acbf8b1faa6467fbc70c450708<br>
+client_id(客户端ID):<br>
+2258<br>
+client_key(客户端KEY):<br>
+eb151dd0206e21290846899d2531e858<br>
+6071包地址：http://apk3.6071.com/apk/base/805.apk<br>
+
 + ### **2020-09-04**
 
   - >(修复打包错误)游戏名称：仙域轮回<br>
