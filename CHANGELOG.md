@@ -29,9 +29,10 @@ http://db.znkaoshi.com/apk/sub/leleyouxihezi/85.apk  <br/>
 http://db.znkaoshi.com/apk/sub/leleyouxihezi/15.apk	 <br/>
 
 http://sp.ulxue.com/Uploads/apk/32/
+http://sp.ulxue.com/Uploads/apk/34/
 
-## 【未发布】
-## 2020-09-16 【乐乐游戏】版本：2.1.7  &#160; &#160; 内部版本号：38
+
+## 2020-09-17 【乐乐游戏】版本：2.2.0  &#160; &#160; 内部版本号：40
 
 - 乐乐游戏第六期改版内容
 - 主要源码在git分支developer_v7
@@ -40,17 +41,20 @@ http://sp.ulxue.com/Uploads/apk/32/
 ### 新增
 
 - 用户等级相关功能
-- 评论删除举报功能
+- 游戏时长统计
+- 评论删除\举报
 - 极光一键登录
+- 点击搜索下载埋点
 
 ### 更新
 
+- 评论功能
 - 我的游戏
 - 新用户红包弹窗功能
 - 排行榜功能
 - 游戏详情页优化
-- 评论功能
 - 应用更新根据版本更新 强更和可选更新
+- 游戏视频静音开关\全屏
 
 ### 修改
 
