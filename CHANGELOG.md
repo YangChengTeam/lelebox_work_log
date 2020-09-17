@@ -28,7 +28,7 @@ http://db.znkaoshi.com/apk/sub/leleyouxihezi/24.apk  <br/>
 http://db.znkaoshi.com/apk/sub/leleyouxihezi/85.apk  <br/>
 http://db.znkaoshi.com/apk/sub/leleyouxihezi/15.apk	 <br/>
 
-http://sp.ulxue.com/Uploads/apk/32/
+http://sp.ulxue.com/Uploads/apk/32/<br/>
 http://sp.ulxue.com/Uploads/apk/34/
 
 
