@@ -185,13 +185,13 @@
 
 + ### **2020-09-17**
 
-   - > 游戏名称：执剑问情
-渠道ID：45
-渠道游戏名称：执剑问情
-渠道号(channelid)：100000
-游戏key :  14C3879D96E00A7B
-游戏公钥 : MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCQ1rAF0OnGrNfBa7IZIlPTn1+PlvHmq1WL4oXVKZu7RRjyG8zHI4PkxFdjdHV17qfr77rYapr6Ua/ymtW3kPk7zBBBRhFSGCJRlXbnoUvKEovdI4N+RRrDYm1Jv+TKfQ97mTtdIsq4ih7IPzvuInm6JsNgxjejVjssV1TOjQP8LwIDAQAB
-6071包地址：http://apk3.6071.com/apk/base/805.apk
+   - > 游戏名称：执剑问情<br>
+渠道ID：45<br>
+渠道游戏名称：执剑问情<br>
+渠道号(channelid)：100000<br>
+游戏key :  14C3879D96E00A7B<br>
+游戏公钥 : MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCQ1rAF0OnGrNfBa7IZIlPTn1<br>+PlvHmq1WL4oXVKZu7RRjyG8zHI4PkxFdjdHV17qfr77rYapr6Ua/ymtW3kPk7zBBBRhFSGCJRlXbnoUvKEovdI4N+RRrDYm1Jv<br>+TKfQ97mTtdIsq4ih7IPzvuInm6JsNgxjejVjssV1TOjQP8LwIDAQAB<br>
+6071包地址：http://apk3.6071.com/apk/base/805.apk<br>
 
 
 + ### **2020-09-15**
