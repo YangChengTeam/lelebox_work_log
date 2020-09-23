@@ -4,39 +4,38 @@
 
 http://www.6ll.com/apk/app-box.apk <br/>
 http://www.6ll.com/6ll.apk <br/>
-http://db.znkaoshi.com/apk/sub/leleyouxihezi/10256.apk	 <br/>
-http://db.znkaoshi.com/apk/sub/leleyouxihezi/10093.apk	 <br/>
-http://db.znkaoshi.com/apk/sub/leleyouxihezi/10222.apk	 <br/>
-http://db.znkaoshi.com/apk/sub/leleyouxihezi/10094.apk	 <br/>
-http://db.znkaoshi.com/apk/sub/leleyouxihezi/10054.apk	 <br/>
-http://db.znkaoshi.com/apk/sub/leleyouxihezi/10185.apk	 <br/>
-http://db.znkaoshi.com/apk/sub/leleyouxihezi/10113.apk	 <br/>
-http://db.znkaoshi.com/apk/sub/leleyouxihezi/10112.apk	 <br/>
-http://db.znkaoshi.com/apk/sub/leleyouxihezi/10096.apk	 <br/>
-http://db.znkaoshi.com/apk/sub/leleyouxihezi/10097.apk	 <br/>
-http://db.znkaoshi.com/apk/sub/leleyouxihezi/leleyouxihezi_10161.apk  <br/>
-http://db.znkaoshi.com/apk/sub/leleyouxihezi/leleyouxihezi_10054.apk  <br/>
-http://db.znkaoshi.com/apk/sub/leleyouxihezi/leleyouxihezi_10092.apk  <br/>
-http://db.znkaoshi.com/apk/sub/leleyouxihezi/leleyouxihezi_10185.apk  <br/>
-http://db.znkaoshi.com/apk/sub/leleyouxihezi/leleyouxihezi_10222.apk  <br/>
-http://db.znkaoshi.com/apk/sub/leleyouxihezi/leleyouxihezi_10183.apk  <br/>
-http://db.znkaoshi.com/apk/sub/leleyouxihezi/leleyouxihezi_10161.apk  <br/>
-http://db.znkaoshi.com/apk/sub/leleyouxihezi/leleyouxihezi_10098.apk  <br/>
-http://db.znkaoshi.com/apk/sub/leleyouxihezi/19.apk  <br/>
-http://db.znkaoshi.com/apk/sub/leleyouxihezi/7.apk   <br/>
-http://db.znkaoshi.com/apk/sub/leleyouxihezi/24.apk  <br/>
-http://db.znkaoshi.com/apk/sub/leleyouxihezi/85.apk  <br/>
-http://db.znkaoshi.com/apk/sub/leleyouxihezi/15.apk	 <br/>
-
+http://db.znkaoshi.com/apk/sub/leleyouxihezi/	 <br/>
 http://sp.ulxue.com/Uploads/apk/32/<br/>
-http://sp.ulxue.com/Uploads/apk/34/
+http://sp.ulxue.com/Uploads/apk/34/<br/>
 
+
+## 2020-09-28 【乐乐游戏】版本：2.2.1  &#160; &#160; 内部版本号：45
+
+- 乐乐游戏第八期改版内容
+- 主要源码在git分支developer_v8
+
+### 新增
+
+- 游戏下架页面
+- 实名认证
+- 开屏根据配置
+- 今日发现更多页面
+
+### 更新
+
+- 首页调整
+- 关于我们
+- 视频播放器
+- 评论插入链接下载功能
+
+### 修改
+
+-  修改umeng bugly bug 
 
 ## 2020-09-17 【乐乐游戏】版本：2.2.0  &#160; &#160; 内部版本号：40
 
-- 乐乐游戏第六期改版内容
+- 乐乐游戏第七期改版内容
 - 主要源码在git分支developer_v7
-
 
 ### 新增
 
