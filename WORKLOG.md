@@ -4,6 +4,19 @@
 ## **马甲包打包**
 <details>
 
++ ### **2020-09-27**
+
+     - >应用名称：经典消消消 30 更新<br>
+服务器：61.183.37.44<br>
+类型ID：yx 10137  <br>
+路径：/home/bb/ydb/Script<br>
+
++ ### **2020-09-25**
+
+     - >应用名称：经典消消消 30 更新<br>
+服务器：61.183.37.44<br>
+类型ID：yx 10137 10182 10162 <br>
+路径：/home/bb/ydb/Script<br>
 
 + ### **2020-09-23**
 
@@ -12,7 +25,7 @@
 类型ID：yx 10137 10182<br>
 路径：/home/bb/ydb/Script<br>
     
-         - >应用名称：经典消消消 1.1.8<br>
+     - >应用名称：经典消消消 1.1.8<br>
     服务器：61.183.37.44<br>
     类型ID：yx 10137 10136<br>
     路径：/home/bb/ydb/Script<br>
@@ -135,13 +148,13 @@
 + ### **2020-08-21**
 
 
-    - >应用名称：经典消消消<br>
+   - >应用名称：经典消消消<br>
 服务器：61.183.37.44<br>
 类型ID：yx<br>
 路径：/home/bb/ydb/Script<br>
 
 
-    - >应用名称：经典消消消<br>
+   - >应用名称：经典消消消<br>
 服务器：61.183.37.44<br>
 类型ID：30<br>
 路径：/home/bb/ydb/Script<br>
@@ -203,7 +216,33 @@
 ## **聚合渠道打包**
 <details>
 
++ ### **2020-09-24**
+   - > (更新游戏)游戏名称：放置三国<br>
+   渠道ID：45<br>
+   渠道游戏名称：放置三国<br>
+   渠道号(channelid)：100000<br>
+   游戏key :  E9B68FBEA1D030EE<br>
+   游戏公钥 : MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCQ1rAF0OnGrNfBa7IZIlPTn1<br>+PlvHmq1WL4oXVKZu7RRjyG8zHI4PkxFdjdHV17qfr77rYapr6Ua/ymtW3kPk7zBBBRhFSGCJRlXbnoUvKEovdI4N+RRrDYm1Jv<br>+TKfQ97mTtdIsq4ih7IPzvuInm6JsNgxjejVjssV1TOjQP8LwIDAQAB<br>
+   6071包地址：http://apk3.6071.com/apk/base/805.apk<br>
+
+   - > 游戏名称：海盗传说<br>
+渠道ID：43<br>
+渠道游戏名：海盗传说 <br>
+app_id：10070<br>
+appkey：Y807rdqWSELuf34s<br>
+paykey：TV5crpC8lu1bnDyXI4Af<br>
+包名：com.hdcs.wx<br>
+6071包地址：http://apk3.6071.com/apk/base/778.apk<br>
+
 + ### **2020-09-23**
+   
+   - > 游戏名称：放置三国<br>
+   渠道ID：45<br>
+   渠道游戏名称：放置三国<br>
+   渠道号(channelid)：100000<br>
+   游戏key :  E9B68FBEA1D030EE<br>
+   游戏公钥 : MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCQ1rAF0OnGrNfBa7IZIlPTn1<br>+PlvHmq1WL4oXVKZu7RRjyG8zHI4PkxFdjdHV17qfr77rYapr6Ua/ymtW3kPk7zBBBRhFSGCJRlXbnoUvKEovdI4N+RRrDYm1Jv<br>+TKfQ97mTtdIsq4ih7IPzvuInm6JsNgxjejVjssV1TOjQP8LwIDAQAB<br>
+   6071包地址：http://apk3.6071.com/apk/base/805.apk<br>
 
    - > （游戏更新）游戏名称：执剑问情<br>
 渠道ID：45<br>
@@ -481,7 +520,7 @@ paykey：rgVaHu8b0e9AOSxhkfJw <br>
 <details>
 
 
-+ ### **2020-09-15**
++ ### **2020-09-16**
    - 应用市场apk更新相关
 
 + ### **2020-09-15**

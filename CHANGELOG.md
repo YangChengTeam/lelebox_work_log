@@ -4,12 +4,12 @@
 
 http://www.6ll.com/apk/app-box.apk <br/>
 http://www.6ll.com/6ll.apk <br/>
-http://db.znkaoshi.com/apk/sub/leleyouxihezi/	 <br/>
+http://db.znkaoshi.com/apk/sub/leleyouxihezi/<br/>
 http://sp.ulxue.com/Uploads/apk/32/<br/>
 http://sp.ulxue.com/Uploads/apk/34/<br/>
 
 
-## 2020-09-28 【乐乐游戏】版本：2.2.1  &#160; &#160; 内部版本号：45
+## 2020-09-27 【乐乐游戏】版本：2.2.1  &#160; &#160; 内部版本号：45
 
 - 乐乐游戏第八期改版内容
 - 主要源码在git分支developer_v8
@@ -20,6 +20,7 @@ http://sp.ulxue.com/Uploads/apk/34/<br/>
 - 实名认证
 - 开屏根据配置
 - 今日发现更多页面
+- 第三方游戏闪玩和梦工厂
 
 ### 更新
 
