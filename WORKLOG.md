@@ -217,7 +217,7 @@
 <details>
 
 + ### **2020-09-28**
-     - > (配置修改)游戏名称：海盗传说<br>
+     - > (配置修改-sdk修改)游戏名称：海盗传说<br>
 渠道ID：43<br>
 渠道游戏名：海盗传说 <br>
 app_id：10070<br>
@@ -225,6 +225,23 @@ appkey：Y807rdqWSELuf34s<br>
 paykey：TV5crpC8lu1bnDyXI4Af<br>
 包名：com.hdcs.wx<br>
 6071包地址：http://apk3.6071.com/apk/base/778.apk<br>
+     
+    - > 游戏名称：剑与道<br>
+     渠道ID：50<br>
+     渠道游戏名：剑与道 <br>
+     app_id：7d89bf833a1a07546d5cdc23b3f1e238<br>
+     app_key：0272a4a6117d8be2cddf881a04c6c415<br>
+     server_key：65c2cd93870dd9f6ffc6ddd7f41ee01d<br>
+     6071包地址：http://apk3.6071.com/apk/base/847.apk<br>
+     
+     - > 游戏名称：放置三国<br>
+         渠道ID：50<br>
+         渠道游戏名：放置三国 <br>
+         app_id：780e8e77f794cb5f179ac32fe3ec4cd1<br>
+         app_key：8493267f6a9587aebd9c27f90d885fc4<br>
+         server_key：cb198294dc8beafe24a4eb7bc44db1aa<br>
+         6071包地址：http://apk3.6071.com/apk/base/844.apk<br>
+                                                                                                                                                                                                                                  >
 
 
 + ### **2020-09-24**
