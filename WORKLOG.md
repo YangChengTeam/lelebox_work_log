@@ -216,6 +216,17 @@
 ## **聚合渠道打包**
 <details>
 
++ ### **2020-09-28**
+     - > (配置修改)游戏名称：海盗传说<br>
+渠道ID：43<br>
+渠道游戏名：海盗传说 <br>
+app_id：10070<br>
+appkey：Y807rdqWSELuf34s<br>
+paykey：TV5crpC8lu1bnDyXI4Af<br>
+包名：com.hdcs.wx<br>
+6071包地址：http://apk3.6071.com/apk/base/778.apk<br>
+
+
 + ### **2020-09-24**
    - > (更新游戏)游戏名称：放置三国<br>
    渠道ID：45<br>
