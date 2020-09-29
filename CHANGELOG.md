@@ -20,14 +20,14 @@ http://sp.ulxue.com/Uploads/apk/34/<br/>
       - cdn工具清除缓存 http://sp.ulxue.com/Uploads/apk/32/
 
 - 4.  打后台渠道包
-     - 218.92.216.77 ftp 上传加固包 /apk/base/leleyouxihezi
-     - 进后台打包http://admin.6ll.com/admin/
-     - 进后台打包http://tg.wk2.com/admin/pub/login.html
-     - cdn工具清除缓存 http://db.znkaoshi.com/apk/sub/leleyouxihezi/
+      - 218.92.216.77 ftp 上传加固包 /apk/base/leleyouxihezi
+      - 进后台打包http://admin.6ll.com/admin/
+      - 进后台打包http://tg.wk2.com/admin/pub/login.html
+      - cdn工具清除缓存 http://db.znkaoshi.com/apk/sub/leleyouxihezi/
 
 - 5.  覆盖6ll和更新包
-     - 47.115.20.109 ftp 上传加固包
-     - cdn工具清除缓存 http://www.6ll.com/apk/app-box.apk <br/>
+      - 47.115.20.109 ftp 上传加固包
+      - cdn工具清除缓存 http://www.6ll.com/apk/app-box.apk <br/>
        http://www.6ll.com/6ll.apk
 
 ## 2020-09-27 【乐乐游戏】版本：2.3.0  &#160; &#160; 内部版本号：45

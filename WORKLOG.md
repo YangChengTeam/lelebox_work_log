@@ -1,6 +1,31 @@
 #  工作日志：
 
 
+### 马甲包打包清单 
+
+- 马甲包
+    - 查询类型 http://sp.ulxue.com/user/login.html
+    - 上传马甲包到ftp
+    - 确认签名文件是否变更
+
+- xshell登录服务器
+   - 进入目录 一般规则/home/xx/newdb/Script
+   - 执行sh squick
+   - 测试本地包是否ok
+   - 打热点包 node gen_hotredis.js
+
+- 正常流程测试
+
+- 清除cdn
+
+### 聚合打包清单 
+
+- 参数配置
+- 执行打包工具
+- 测试
+
+   
+
 ## **马甲包打包**
 <details>
 
