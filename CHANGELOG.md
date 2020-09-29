@@ -8,6 +8,31 @@ http://db.znkaoshi.com/apk/sub/leleyouxihezi/<br/>
 http://sp.ulxue.com/Uploads/apk/32/<br/>
 http://sp.ulxue.com/Uploads/apk/34/<br/>
 
+http://admin.6ll.com/admin/<br/>
+http://tg.wk2.com/admin/pub/login.html<br/>
+
+
+### 发布清单：<br/>
+- 1.  打包release.apk
+- 2.  360工具加固release.apk
+- 3.  打商务渠道包
+      - 61.147.108.89 ftp 上传加固包   根目录
+      - cd /home/bb/new/Uploads/apk/32
+      - mv /home/dd/newdb/加固包 def.apk
+      - 删除包
+         - rm -f 289/*.apk 962/*.apk hncj/*.apk xlhs/*.apk 5577/*.apk aiskycn/*.apk u9h/*.apk y8l/*.apk 8688g/*.apk cr173/*.apk fxxz/*.apk uzzf/*.apk yx007/*.apk
+      - cdn工具清除缓存 http://sp.ulxue.com/Uploads/apk/32/
+
+- 4.  打后台渠道包
+     - 218.92.216.77 ftp 上传加固包 /apk/base/leleyouxihezi
+     - 进后台打包http://admin.6ll.com/admin/
+     - 进后台打包http://tg.wk2.com/admin/pub/login.html
+     - cdn工具清除缓存 http://db.znkaoshi.com/apk/sub/leleyouxihezi/
+
+- 5.  覆盖6ll和更新包
+     - 47.115.20.109 ftp 上传加固包
+     - cdn工具清除缓存 http://www.6ll.com/apk/app-box.apk <br/>
+       http://www.6ll.com/6ll.apk
 
 ## 2020-09-27 【乐乐游戏】版本：2.3.0  &#160; &#160; 内部版本号：45
 
