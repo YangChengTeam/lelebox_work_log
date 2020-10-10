@@ -26,7 +26,7 @@ http://sp.ulxue.com/Uploads/apk/34/<br/>
       - cdn工具清除缓存 http://db.znkaoshi.com/apk/sub/leleyouxihezi/
 
 - 5.  覆盖6ll和更新包
-      - 47.115.20.109 ftp 上传加固包
+      - 47.112.135.77 ftp 上传加固包
       - cdn工具清除缓存 http://www.6ll.com/apk/app-box.apk <br/>
        http://www.6ll.com/6ll.apk
 

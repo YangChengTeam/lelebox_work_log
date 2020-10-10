@@ -20,7 +20,9 @@
 
 ### 聚合打包清单 
 
-- 参数配置
++ 参数配置
+  - 包名
+  - icon
 - 执行打包工具
 - 测试
 
@@ -257,6 +259,38 @@
 
 ## **聚合渠道打包**
 <details>
+
++ ### **2020-10-10**
+
+   - > 渠道ID：60<br>
+海盗传说<br>
+APP_ID:10<br>
+APP_KEY:2bc29e1b649cf0e0182b5d910a941f21<br>
+CLIENT_ID:10<br>
+CLIENT_KEY:5c6cf8339134ee79ce3b806b01baddac<br>
+6071包地址：http://apk3.6071.com/apk/base/778.apk<br>
+
+   - > （sdk修改）游戏名称：诛仙神域<br>
+渠道ID：52<br>
+产品：诛仙神域<br>
+产品ID：9305920100001109<br>
+客户端key：073dc21c7d5b19cee160dd3a43b52e63<br>
+服务端key：a5a457c58a4a2afe45d9166509092f03<br>
+产品代码：zxsy_android<br>
+产品包名：com.dangwan.zxsy<br>
+6071包地址：http://apk3.6071.com/apk/base/846.apk<br>
+
++ ### **2020-10-09**
+    - > 游戏名称：诛仙神域br>
+渠道ID：52<br>
+产品：诛仙神域<br>
+产品ID：9305920100001109<br>
+客户端key：073dc21c7d5b19cee160dd3a43b52e63<br>
+服务端key：a5a457c58a4a2afe45d9166509092f03<br>
+产品代码：zxsy_android<br>
+产品包名：com.dangwan.zxsy<br>
+6071包地址：http://apk3.6071.com/apk/base/846.apk<br>
+
 
 + ### **2020-09-29**
 
@@ -600,6 +634,12 @@ paykey：rgVaHu8b0e9AOSxhkfJw <br>
 
 ## **其它**
 <details>
+
++ ### **2020-10-09**
+  - 微信公众号数据抓取
+     - 方案调研
+     - 尝试搜狗方案 已失效
+     - 尝试公众号登录方式 可抓取数据
 
 + ### **2020-09-29**
    - 猜歌总动员预警脚本
