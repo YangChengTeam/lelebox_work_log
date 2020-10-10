@@ -16,3 +16,5 @@
 
 - 新增工具-判断是否开启TalkBack
 
+- 修复umeng bugly 上其他小概率bug
+
