@@ -1,9 +1,19 @@
 #  "乐乐游戏盒进度"日志：
 
 
+### 2020-10-13 完成
+  - 乐乐游戏广告单独日志（服务端和客户端）
+
+### 2020-10-12 完成
+  - 修复部分umeng bug,bugly bug
+  
++ 界面
+  - ui界面调整
+  - 精选游戏界面
+
 ### 2020-10-11 完成
 
-- 修复umeng bug,bugly bug
+- 修复部分umeng bug,bugly bug
 - 发布2.3.3 code 48
 
 ### 2020-10-10 完成
@@ -15,17 +25,17 @@
 
 ### 2020-10-09 完成
 
-- 修复umeng bug,bugly bug
+- 修复部分umeng bug,bugly bug
 
 ### 2020-09-29 完成
 
-- 修复umeng bug
+- 修复部分umeng bug
 - 发布2.3.1 code 46
 
 
 ### 2020-09-28 完成
 
-- 修复umeng bug
+- 修复部分umeng bug
 - 发布2.3.1
 - 全量发布
 - 元气骑士破解
@@ -67,18 +77,18 @@
     - 关于我们
     - 软件更新
     
-- 修复umeng bug 
-- 修复bugly bug 
+- 修复部分umeng bug 
+- 修复部分bugly bug 
 
 ### 2020-09-21 完成
 
-- 修复umeng bug 
-- 修复bugly bug 
+- 修复部分umeng bug 
+- 修复部分bugly bug 
 
 ### 2020-09-19 完成
 
-- 修复umeng bug 
-- 修复bugly bug 
+- 修复部分umeng bug 
+- 修复部分bugly bug 
 
 ### 2020-09-18 完成
 
