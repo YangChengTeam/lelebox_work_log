@@ -37,3 +37,30 @@
 ###  2020-10-17
 
 - 作业答案大全破解
+
+###  2020-10-19
+
+- 作业答案大全破解
+  - 客户端完成并且帮他们部署
+
+- 7723免root修改器功能分析
+
+- 聚合渠道 
+
+   - > 游戏名称：剑与道<br>
+渠道ID：66<br>
+游戏名称：剑与道<br>
+app_id=7d89bf833a1a07546d5cdc23b3f1e238<br>
+app_key=0272a4a6117d8be2cddf881a04c6c415<br>
+server_key=65c2cd93870dd9f6ffc6ddd7f41ee01d<br>
+6071包地址：http://apk3.6071.com/apk/base/847.apk<br>
+
+
+   - > 游戏名称：海盗传说<br>
+渠道ID：43<br>
+游戏名：海盗传说<br>
+ app_id：10070<br>
+appkey：Y807rdqWSELuf34s<br>
+ paykey：TV5crpC8lu1bnDyXI4Af <br>
+包名：com.hdcs.wx<br>
+6071包地址：http://apk3.6071.com/apk/base/778.apk<br>
