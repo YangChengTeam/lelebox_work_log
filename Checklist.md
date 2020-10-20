@@ -15,8 +15,6 @@
 
 ###  2020-10-15
 
-
-
 - 马甲包定制包打包
 
   - 消消乐 定制渠道10137 10100 10162
@@ -44,6 +42,10 @@
   - 客户端完成并且帮他们部署
 
 - 7723免root修改器功能分析
+  - [https://github.com/YangChengTeam/7723-no-root-edit-memory-any](https://github.com/YangChengTeam/7723-no-root-edit-memory-any)
+
+- 马甲包
+  - 猜歌 33
 
 - 聚合渠道 
 
@@ -64,3 +66,14 @@ appkey：Y807rdqWSELuf34s<br>
  paykey：TV5crpC8lu1bnDyXI4Af <br>
 包名：com.hdcs.wx<br>
 6071包地址：http://apk3.6071.com/apk/base/778.apk<br>
+
+
+- 846-》游戏换登录图片
+
+
+###  2020-10-20
+
+- 涂鸦文档阅读
+- 马甲包
+  - 消消乐 10182定制包
+- 855打包测试对接
