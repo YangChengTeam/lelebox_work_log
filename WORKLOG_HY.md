@@ -1,5 +1,8 @@
 # "乐乐游戏盒进度"日志：
 
+### 10.30
+修复 乐乐游戏盒第九期新增测试bug https://shimo.im/docs/rp3OVgoVopC7OeAm
+
 ### 10.29
 
 修复 乐乐游戏盒第九期测试bug https://shimo.im/docs/rp3OVgoVopC7OeAm
