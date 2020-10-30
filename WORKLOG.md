@@ -310,6 +310,18 @@
 ## **聚合渠道打包**
 <details>
 
++ ### **2020-10-23**
+     - > 游戏名称：诛仙神域<br>
+渠道ID：52<br>
+渠道游戏名称：诛仙神域<br>
+ID：9305920100001111<br>
+客户端key：29d30febb526dba793325bb0310c9690<br>
+服务端key：d6c86702fead0af97fecb2256485b9c2<br>
+产品代码：zxsyzf_android<br>
+产品包名：com.dangwan.zxsyzf<br>
+6071包地址：http://apk3.6071.com/apk/base/856.apk<br>
+
+
 + ### **2020-10-19**
      - > (游戏更新)游戏名称：海盗传说<br>
 渠道ID：43<br>
