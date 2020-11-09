@@ -17,7 +17,7 @@ http://sp.ulxue.com/Uploads/apk/34/<br/>
       - mv /home/dd/newdb/加固包 def.apk
       - 删除包
          - rm -f 289/*.apk 962/*.apk hncj/*.apk xlhs/*.apk 5577/*.apk aiskycn/*.apk u9h/*.apk y8l/*.apk 8688g/*.apk cr173/*.apk fxxz/*.apk uzzf/*.apk yx007/*.apk
-      - cdn工具清除缓存 http://sp.ulxue.com/Uploads/apk/32/
+      - cdn工具清除缓存 http://sp.sxqingyi.com/Uploads/apk/32/
 
 - 4.  打后台渠道包
       - 218.92.216.77 ftp 上传加固包 /apk/base/leleyouxihezi
@@ -32,8 +32,17 @@ http://sp.ulxue.com/Uploads/apk/34/<br/>
        
 
 ## 【未发布】
-## 2020-10-26 【乐乐游戏】版本：2.4.0  &#160; &#160; 内部版本号：50
+## 2020-11-20 【乐乐游戏】版本：3.0.0  &#160; &#160; 内部版本号：60
+- 主要源码在git分支developer_v10
 
+### 新增
+
+- 社区
+
+
+
+## 2020-10-29 【乐乐游戏】版本：2.4.0  &#160; &#160; 内部版本号：50
+- 主要源码在git分支developer_v9
 
 ### 新增
 
