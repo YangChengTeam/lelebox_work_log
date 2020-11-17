@@ -1,5 +1,9 @@
 # "乐乐游戏盒进度"日志：
 
+### 10.17
+
+- 修复第十期bug  [链接](https://shimo.im/docs/R13j8bPDGaha1Lk5/read)
+
 ### 10.16
 
 - 完成
