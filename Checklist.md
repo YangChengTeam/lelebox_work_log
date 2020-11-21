@@ -273,13 +273,14 @@ appkey:744a4262cb8dd9b031708fac406b3c86<br/>
 
   ###  2020-11-06
 
--  完善自定义组件DynamicTextView
-    - 添加对话题支持
-    - 添加对下载链接支持
-
- - 自定义组件DynamicEditText 动态发布输入框  比较复杂需要完善
-    - 链接的添加 删除
-    - 话题的添加 删除
+- 乐乐盒子
+    -  完善自定义组件DynamicTextView
+        - 添加对话题支持
+        - 添加对下载链接支持
+    
+     - 自定义组件DynamicEditText 动态发布输入框  比较复杂需要完善
+        - 链接的添加 删除
+        - 话题的添加 删除
    
 - 定制马甲包
    - 消消乐 10062定制包
@@ -288,3 +289,177 @@ appkey:744a4262cb8dd9b031708fac406b3c86<br/>
 
 - 自定义组件DynamicEditText
    - 完善修复bug
+   
+   
+   ###  2020-11-09
+   
+- 乐乐盒子
+     - 自定义组件DynamicEditText
+       - 添加对用户@支持高亮
+     - 自定义组件DynamicEditText
+        - 完善修复bug 修复链接和话题删除位置光标
+ - android基础库
+   - 一个公共的基础库
+   - 获取imei imei2 oaid meid androidid searilno uuid的库
+   - 地址[https://github.com/YangChengTeam/androiduuuid](https://github.com/YangChengTeam/androiduuuid)
+
+  
+###  2020-11-10
+
+- 乐乐盒子
+  - 自定义组件DynamicEditText
+    - 参数上传 以及
+  - 动态发布协调对接测试
+
+- 定制马甲包
+    - 消消乐  10162， 10136定制包
+- 聚合sdk
+  - 诛仙神域861 打包
+
+###  2020-11-11
+
+- 聚合打包
+  - >白蛇仙劫<br/>
+渠道ID：45<br/>
+渠道号(channelid)：100000<br/>
+游戏key :  648420D38025B58B<br/>
+游戏公钥 : MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCx1QdX2nEoLch3GnwAkRSwlnYJO06xo6qr+ETbMzxD13jE33lcThKBuO1KEqPP5WZxVj0MqmE0R6LOrBsJwHsUkJ0os7HmZbSZZ3cX/bPUzYuTNuXczicaqxVUvxXA/IPVskepedBObEdVylpWXR7SXcL+2TKz8kFhu8RsyxoKFwIDAQAB<br/>
+6071包地址：http://apk3.6071.com/apk/base/839.apk<br/>
+
+- 乐乐盒子
+  - 动态列表的bug修复
+  - 添加android stuiod自动压缩图片插件
+  - 添加android stuiod资源混淆插件 
+
+- 小游戏广告统计sdk
+  - 根据后台开关是否显示开启广告
+
+###  2020-11-12
+
+- 乐乐盒子
+  - 动态回复楼主界面的重构
+  - DynamicTextView 添加对图片的支持
+
+- unity3d小游戏广告统计sdk
+  - 复制一个小游戏广告统计sdk
+  - 添加最新的微信支付，支付宝支付sdk
+  - 最简化支付模块
+
+
+###  2020-11-13
+
+- 乐乐盒子
+  - DynamicTextView bug修复
+  - 整体测试 相关问题修复
+- 马甲包打包
+  - 猜歌马甲包 33
+
+
+###  2020-11-14
+
+- 乐乐盒子
+  - DynamicTextView 
+    - 获取分享内容
+    - 动态图片
+- 红包项目
+  - 纯的广告sdk
+    - [https://github.com/YangChengTeam/adsdk](https://github.com/YangChengTeam/adsdk)
+
+###  2020-11-16
+
+- 乐乐盒子 
+   - 游戏详情页1星对齐问题
+   - 添加show type日志问题
+   - DynamicEditView 在标签中输入问题
+
+- 聚合打包
+  - > 846 打子包<br>
+  855 琉璃幻世 <br>
+com.llhs.leqi   <br>
+199639  <br>
+llhs1019<br>
+
+- 猜视频
+  - 服务器log配置
+
+
+###  2020-11-17
+
+- 乐乐盒子 
+  - 转发动态图片不显示的bug
+  - 游戏详情ppt展示方式修改
+  - 动态中错误链接点击的反馈
+  - 底部双击刷新
+  - 图片错位处理
+  - 发布测试包
+
+- 小游戏广告统计sdk
+  - 添加一个可以设置初始url的接口
+
+- 智能锁小程序工匠端
+  - promise化的网络库导入
+  - 自定base page导入
+
+- 物联网
+  - 关于脱机方式控制设备与厂商沟通
+
+- 聚合打包
+  - > 864 打子包<br>
+  865 琉璃幻世 <br>
+com.zxsy002.leqi     <br>
+190800  <br>
+wdjh_2020<br>
+
+-  猜歌备用包2
+   - 服务器log配置
+
+
+
+###  2020-11-18
+
+- 智能锁小程序工匠端
+  - 工单列表对接
+  - 接单对接
+  - 更新对接
+  - 登陆对接
+  - 工单详情对接
+  - 地区选择对接
+  - 添加地区选择
+  - 工种选择对接
+  - 添加工种选择对接
+  - 获取状态数量对接
+  - 页面交互逻辑
+ 
+- 聚合打包
+  - > 864 打子包<br>
+  867 琉璃幻世 <br>
+com.zxsy002tt.leqi     <br>
+203109  <br>
+zxsy1118<br>
+
+###  2020-11-19
+
+- 智能锁小程序工匠端
+  - 短信接口
+  - 提交图片
+  - 整体处理及测试
+
+- 马甲包打包
+  - 猜歌马甲包 33
+
+- 定制马甲包
+  - 猜歌马甲包 10162
+
+###  2020-11-20
+
+- 智能锁小程序工匠端
+  - bug修复
+
+- 关于voc智能锁测试内容
+  - a.设备上可以进行离线脱设置
+  - 已测试内容：
+      - 1.修改管理员密码
+      - 2.添加卡片开锁 删除卡片开锁
+      - 3.添加指纹开锁
+  - b.配网模式
+      用阿里国内公版app配网成功
