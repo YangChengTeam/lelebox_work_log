@@ -16,7 +16,7 @@ http://sp.ulxue.com/Uploads/apk/34/<br/>
       - cd /home/bb/new/Uploads/apk/32
       - mv /home/dd/newdb/加固包 def.apk
       - 删除包
-         - rm -f 289/*.apk 962/*.apk hncj/*.apk xlhs/*.apk 5577/*.apk aiskycn/*.apk u9h/*.apk y8l/*.apk 8688g/*.apk cr173/**.apk fxxz/*.apk uzzf/*.apk yx007/**.apk
+         - rm -f 289/*.apk 962/*.apk hncj/*.apk xlhs/*.apk 5577/*.apk aiskycn/*.apk u9h/*.apk y8l/*.apk 8688g/*.apk cr173/*.apk fxxz/*.apk uzzf/*.apk yx007/*.apk
       - cdn工具清除缓存 http://sp.sxqingyi.com/Uploads/apk/32/
 
 - 4.  打后台渠道包
