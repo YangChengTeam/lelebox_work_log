@@ -41,6 +41,7 @@ http://sp.ulxue.com/Uploads/apk/34/<br/>
 - 积分墙第三方SDK
 - 赚现金界面改版
 - 新人红包样式改变
+- 搜索样式改版
 
 主要代码在developer_v 11分支
 
