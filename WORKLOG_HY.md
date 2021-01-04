@@ -1,5 +1,21 @@
 # "乐乐游戏盒进度"日志：
 
+### 2021-01.04
+
+修复dynamicTextView显示更多bug
+
+修复闲玩游戏数据精度导致请求失败问题
+
+修复getDevicedId闪退问题
+
+修复umeng bugly bug
+
+### 12.31
+
+学习h5
+
+修复乐乐游戏盒子umeng bugly bug
+
 ### 12.30
 
 完善任务中心
