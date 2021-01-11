@@ -1,5 +1,18 @@
 # "乐乐游戏盒进度"日志：
 
+
+
+### 01.11
+
+第十三期礼包相关改动：
+
+- 完成领取成功弹窗
+- 完成复制成功弹窗
+- 我的礼包样式改版
+- 新增scheme唤醒 自动登录+跳转礼包详情， host:com.yc.gamebox , scheme :gamebox ,params : username,pwd,giftid,phone 
+
+主要代码在developer_v13分支
+
 ### 01.09
 
 学习cmake ,android native 开发  so 加密。
