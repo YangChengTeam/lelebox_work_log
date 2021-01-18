@@ -33,13 +33,66 @@ http://sp.ulxue.com/Uploads/apk/34/<br/>
 
 ## 
 
-## 2021-01-13【乐乐游戏】版本：3.3.0&#160; &#160; 内部版本号：80 【未发布】
 
-新增scheme唤醒 自动登录+跳转礼包详情， host:com.yc.gamebox , scheme :gamebox ,params : username,pwd,giftid,phone 
 
-礼包相关改动
+## 2021-01-18【乐乐游戏】版本：3.3.1&#160; &#160; 内部版本号：81 【仅发布web渠道】
 
-修复bug
+修复闲玩下载请求
+
+修复个人资料详情bug
+
+修复banner 插屏 展示的Bug
+
+修复闲玩游戏获取不到数据的Bug
+
+web渠道与游戏渠道广告id区分
+
+优化异常展示
+
+下载web渠道应用时去掉获取下载地址
+
+web渠道设置2s自动下载
+
+web渠道新增下载策略
+
+更改下载toast提示
+
+修复umeng bugly bug 
+
+主要代码在developer_v13分支
+
+## 2021-01-15【乐乐游戏】版本：3.3.0&#160; &#160; 内部版本号：80 
+
+广告变更：
+
+- 未登录状态下载激励视频广告
+
+- web渠道插屏弹窗+激励视频广告 
+
+- 新人红包弹窗底部加信息流广告
+
+- 搜索界面banner广告
+
+弹窗变更：
+
+- 游戏详情未下载引导弹窗
+- 一键登录弹窗
+- 渠道下载游戏信息穿插在插屏内
+
+其他变更：
+
+- 下载前请求接口获取下载最终地址
+
+- 更新穿山甲广告sdk 3.4.1.2
+
+- 新增scheme唤醒 自动登录+跳转礼包详情：
+  - host:com.yc.gamebox 
+  -  scheme :gamebox 
+  - params : username,pwd,giftid,phone 
+
+- 礼包相关改动
+
+- 修复bug
 
 主要代码在developer_v13分支
 
