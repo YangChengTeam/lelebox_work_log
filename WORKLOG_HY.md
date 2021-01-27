@@ -1,5 +1,46 @@
 # "乐乐游戏盒进度"日志：
 
+### 01.27
+
+修复特定机型弹窗闪退Bug
+
+修复获取oaid失败时小概率空指针bug
+
+修复手机开启底部导航时开屏页展示不全的bug
+
+修复umeng bugly其他bug
+
+学习：
+
+- 单例模式
+
+- synchronized 锁
+
+- jsp打包war并部署
+
+  
+
+
+
+### 01.26
+
+修复umeng bugly bug
+
+学习java servlet:
+
+- 获取body参数
+- 处理js跨域请求
+
+学习H5：
+
+- html语法
+- 元素横向滚动
+- 动态添加元素
+- 异步请求
+- jquery请求
+
+
+
 ### 01.25
 
 修复umeng bugly bug
