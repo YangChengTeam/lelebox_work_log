@@ -2,6 +2,21 @@
 
 
 
+### 02.22
+
+乐乐游戏：
+
+- 探究 RuntimeException ：Cannot load Webview bug
+- 处理其他小概率bug
+
+学习开源库：
+
+-  Easy Reveal ，view hide show 动画库
+-  Donut  ，带动画的圆型图标
+-  CurveGraphView  ，带动画的折线、曲线图
+
+了解kotlin ktor框架服务端开发
+
 ### 02.21
 
 乐乐游戏
