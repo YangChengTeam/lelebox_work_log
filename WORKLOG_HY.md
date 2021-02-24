@@ -1,6 +1,42 @@
 # "乐乐游戏盒进度"日志：
 
+### 02.24
 
+乐乐游戏：
+
+- 修复资料详情页跳转数据丢失bug
+- 修复动态详情页跳转数据丢失bug
+
+学习
+
+-  IPC通信Binder
+- looper，Message Queue,handler
+- hashMap原理
+- 自定义view measureSpec
+- 单例的实现：
+  - static 懒加载
+  - volatile+synchronized 
+  - synchronized 双重null判断
+  - 枚举
+  - 内部类（JVM类加载机制）
+- 内存映射mmap
+
+
+
+### 02.23
+
+乐乐游戏：
+
+- BT 游戏移除未登录下载激励视频
+
+学习vue:
+
+- 解决ajax跨域请求
+- 模板语法、实例、生命周期等
+- 调用js、绑定 css
+- css flex布局
+- 列表加载
+- 完成仿乐乐盒子社区动态页面、滑动到底部自动加载
 
 ### 02.22
 
