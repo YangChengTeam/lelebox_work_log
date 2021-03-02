@@ -1,5 +1,32 @@
 # "乐乐游戏盒进度"日志：
 
+### 03.02
+
+乐乐游戏：
+
+- 完成渠道文件配置开屏、banner、未登录下载广告
+- 自动删除游戏安装包及app低版本更新包功能 
+- 发布3.4.4 code 89
+
+学习：
+
+- 插件化开发和组件化开发
+- 多态的概念
+- Android加载webp动图
+
+### 03.01
+
+乐乐游戏：
+
+- 修复闪屏页背景特定机型上FileNotFound的错误
+
+学习：
+
+- Activity、FragmentActivity和AppCompatActivity的区别
+- 反射的原理
+- Charles抓包http, 抓包https
+- groovy语言入门
+
 ### 02.27
 
 乐乐游戏：
