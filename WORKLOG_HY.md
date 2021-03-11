@@ -1,5 +1,22 @@
 # Dullyoung 的工作日志：
 
+### 03.11
+
+扬飞智家:
+
+- 修复登陆输入验证码bug
+- 优化通用弹窗
+- 完善用户协议、隐私政策
+
+学习Java基础原理：
+
+- 接口的向上转型
+- equles 、==、 finally等
+- pacelable Serializable 序列化
+- 代理
+- annotation 注解原理
+- 反射原理
+
 ### 03.10
 
 扬飞智家：
