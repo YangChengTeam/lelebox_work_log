@@ -1,5 +1,19 @@
 # Dullyoung 的工作日志：
 
+### 04.02
+
+扬飞智家
+
+- 统一UI Alert全部改为GeneralDialog
+- 修复接受分享设备的bug
+- 修复设备控制权限问题
+
+学习：
+
+- 自定义Toast
+- 完全退出app
+- LinkList,IntentServer
+
 ### 04.01
 
 扬飞智家：
