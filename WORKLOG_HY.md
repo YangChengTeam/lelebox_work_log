@@ -1,5 +1,17 @@
 # Dullyoung 的工作日志：
 
+### 04.06
+
+扬飞智家
+
+- 新增事件类蓝牙指令接收
+
+学习jetpack：
+
+- workManager
+- Room
+- ViewBinding
+
 ### 04.02
 
 扬飞智家
