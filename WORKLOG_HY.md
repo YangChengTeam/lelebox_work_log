@@ -1,5 +1,11 @@
 # Dullyoung 的工作日志：
 
+### 04.14
+
+学习：Android compose
+
+完善：linux bash换图标app名称脚本
+
 ### 04.13
 
 乐乐游戏:
