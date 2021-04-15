@@ -1,5 +1,13 @@
 # Dullyoung 的工作日志：
 
+### 04.15
+
+学习：
+
+- compose 
+- 多渠道签名打包
+- activity—alias实现免安装改变包名及图标
+
 ### 04.14
 
 学习：Android compose
