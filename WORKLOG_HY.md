@@ -1,5 +1,9 @@
 # Dullyoung 的工作日志：
 
+### 04.17
+
+完善nodejs爬虫网站数据库，electron可视化操作，实现 增 、改、查
+
 ### 04.16
 
 完成nodejs爬虫网站数据入MySQL
