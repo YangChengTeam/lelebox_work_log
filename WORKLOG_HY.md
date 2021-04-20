@@ -1,5 +1,19 @@
 # Dullyoung 的工作日志：
 
+### 04.20
+
+- 完善nodejs服务端，get 方式指定报名查询入库，查询指定数据。
+- 优化服务端 处理并发，压力测试优化
+- 使用vagrant +virtualBox 搭建linux环境
+- Linux搭建ftp传输协议
+
+### 04.19
+
+- 完成Nodejs 简易计算器
+- 学习nodejs语法 异步 await async
+- 联通window与vm-centos
+- centos搭载nodejs 服务端
+
 ### 04.17
 
 完善nodejs爬虫网站数据库，electron可视化操作，实现 增 、改、查
