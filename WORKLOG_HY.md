@@ -1,5 +1,9 @@
 # Dullyoung 的工作日志：
 
+### 04.24
+
+nodejs实战：完成更改用户信息模块 个性签名，昵称，头像
+
 ### 04.23
 
 nodejs实战：nodejs +linux云服务器+android完成一个网盘项目
