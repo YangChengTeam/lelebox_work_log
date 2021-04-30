@@ -1,5 +1,14 @@
 # Dullyoung 的工作日志：
 
+### 04.28
+
+学习：
+
+- nginx反向代理、正向代理
+- centos部署nginx
+- Android客户端下载断点续传实现
+- 脱壳工具drizzleDumper的使用
+
 ### 04.27
 
 nodejs实战: 完成文件分用户文件夹查看 完成客户端文件下载
