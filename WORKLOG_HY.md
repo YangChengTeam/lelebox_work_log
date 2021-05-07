@@ -1,5 +1,10 @@
 # Dullyoung 的工作日志：
 
+### 05.07
+
+- 完成Android 批量文件上传
+- 学习MPAndroidChart 图表库
+
 ### 05.06
 
 扬飞智能消费机：
