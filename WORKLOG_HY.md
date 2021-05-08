@@ -1,5 +1,11 @@
 # Dullyoung 的工作日志：
 
+### 05.08
+
+- 学习图形Matrix
+- 学习MD Behavior
+- 优化扬飞智家安全密码
+
 ### 05.07
 
 - 完成Android 批量文件上传
