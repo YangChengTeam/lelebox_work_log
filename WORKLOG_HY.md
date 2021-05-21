@@ -1,5 +1,36 @@
 # Dullyoung 的工作日志：
 
+### 05.21
+
+学习：
+
+- Android widget桌面小部件开发 实时更新、规格可变
+- rxJava进程调度 原理及使用
+
+扬飞智能消费机
+
+- 重构WiFi链接模块
+
+- 完善混淆配置文件
+
+### 05.20
+
+学习：
+
+- 深入学习rxjava Single Completable
+
+- rxJava subscribe observerOn线程切换
+
+- springboot 处理文件上传
+
+- 尝试多种方式在Android11平台访问文件
+
+  - mediastore
+  - parcelFileDescripter
+  - Document
+
+  
+
 ### 05.19
 
 扬飞智能消费机：
