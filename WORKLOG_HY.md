@@ -1,5 +1,21 @@
 # Dullyoung 的工作日志：
 
+### 05.23
+
+学习xposed模块，获取应用程序context ,hook 变量，hook method
+
+乐乐游戏：
+
+- 修复OAID SDK初始化提示“运行版...”的问题
+- 升级穿山甲sdk 配置混淆文件
+- 对目前手机厂商自带“空白广告ID标识符”相关影响进行处理
+- 升级oaid sdk
+- 修复bugly bug
+
+### 05.22
+
+学习xposed模块 hook 游戏盒子
+
 ### 05.21
 
 学习：
