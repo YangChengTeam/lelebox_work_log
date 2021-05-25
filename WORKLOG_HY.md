@@ -1,6 +1,15 @@
 # Dullyoung 的工作日志：
 
-### 05.23
+### 05.25
+
+zxing 扫码 生成二维码
+
+扬飞消费机：
+
+- 完成退款相关界面
+- 完成退款确定弹窗
+
+### 05.24
 
 学习xposed模块，获取应用程序context ,hook 变量，hook method
 
@@ -1958,4 +1967,4 @@ drawable绘图
 
 - 修复部分用户开启 TalkBack 使用APP部分场景闪退问题
 - 新增工具-判断是否开启TalkBack
-- 修复umeng bugly 上其他小概率bug
+- 修复umeng bugly 上其他小概率[bug]()
