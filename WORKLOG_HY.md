@@ -1,5 +1,22 @@
 # Dullyoung 的工作日志：
 
+### 05.31
+
+智能消费机：
+
+- 修复配置时间段外不能修改金额的bug
+- 添加自由模式
+- 修复WiFi不自动连接Bug
+
+学习：
+
+- 自定义view group 
+  - generateDefaultLayoutParams
+  - 测量子view宽高及内边距
+  - 测量子view 外边距
+  - 绘制子view
+- 自定义view
+
 ### 05.29
 
 修复智能消费机时间设置不生效问题
