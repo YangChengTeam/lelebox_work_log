@@ -1,5 +1,25 @@
 # Dullyoung 的工作日志：
 
+### 06.02
+
+学习：
+
+- 使用xposed hook加固的应用。
+- 反射Field、class、object、Method等使用
+- xpatch框架
+
+修复乐乐游戏盒子bugly bug
+
+解决活动攻略页H5 table显示异常问题
+
+
+
+### 06.01
+
+- 整理常用工具类
+- 学习发布个人lib到mavenCentral
+- 发布个人lib到jitpack.io
+
 ### 05.31
 
 智能消费机：
