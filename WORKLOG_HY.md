@@ -1,5 +1,16 @@
 # Dullyoung 的工作日志：
 
+### 06.03
+
+学习：
+
+- nodejs 搭建webSocket服务
+- 解决nginx访问报错ERR_UNSAFE_PORT的bug
+
+修复乐乐游戏盒子bugly监测bug
+
+
+
 ### 06.02
 
 学习：
