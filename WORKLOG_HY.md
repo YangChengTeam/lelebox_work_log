@@ -1,5 +1,33 @@
 # Dullyoung 的工作日志：
 
+### 06.07
+
+乐乐游戏：
+
+- 解决盒子sdk 对接渠道游戏不能安装问题。
+
+- 更改渠道游戏打包脚本
+
+消费机：
+
+- 新增字体大小设置界面
+- 动态设置全局字体大小
+
+学习：
+
+- Android 拖拽效果
+- 不同recycler view拖拽交换数据
+
+### 06.05
+
+学习：progressBar indeterminate属性详解 实现各种样式加载loading
+
+- animtion_rotate标签
+- 标签：rotate shape stroke gradient
+- 属性 uselevel thickness innerRadius ratio等
+
+
+
 #### 06.04
 
 乐乐游戏：
