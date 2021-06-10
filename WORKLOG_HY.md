@@ -1,5 +1,18 @@
 # Dullyoung 的工作日志：
 
+### 06.10
+
+- 使用kotlin 协程+ok3 封装网络请求base框架
+- 调试rk3288消费机
+
+### 06.09
+
+- Java开发设计原则
+- 组合与继承的区别
+- kotlin协程在Android端的使用
+- viewmodel的使用
+- kotlin协程做网络请求线程切换
+
 ### 06.08
 
 - 学习slidingdrawer控件
