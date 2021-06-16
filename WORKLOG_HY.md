@@ -1,5 +1,26 @@
 # Dullyoung 的工作日志：
 
+### 06.16
+
+学习：
+
+- 插件化开发资源获取问题
+- kotlin协程详解，coroutineContext
+- ConstraintLayout优缺点
+- viewModel详解
+- 事件分发流程
+- 使用ok3+gson+协程封装kotlin网络请求框架
+
+### 06.15
+
+face++人脸识别
+
+- 梳理验证流程
+
+- 弄清业务流程
+- 结合demo代码与文档理清各api用途
+- 解决不同人脸faceToken相同问题
+
 ### 06.11
 
 调试新消费机人脸识别
