@@ -1,5 +1,12 @@
 # Dullyoung 的工作日志：
 
+### 06.25
+
+- 跟进leakCanary源码，浅析原理
+- alarmManager闹钟的使用
+- AudioManager音量控制的使用
+- 应用、服务、窗口后台自启
+
 ### 06.24
 
 学习：
