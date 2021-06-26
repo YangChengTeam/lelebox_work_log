@@ -1,5 +1,11 @@
 # Dullyoung 的工作日志：
 
+### 06.26
+
+通知栏remoteView+后台服务+audioManager+AlarmManager联动实战。
+
+实现通知栏自定义样式，点击控制媒体音量与定时控制音量
+
 ### 06.25
 
 - 跟进leakCanary源码，浅析原理
